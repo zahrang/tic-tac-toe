@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes Tic Tac Toe game outcomes based on different player skill levels using **game theory principles**. It simulates thousands of games to quantify how perfect vs imperfect play affects results.
+This project analyses Tic Tac Toe game outcomes based on different player skill levels using **game theory principles**. It simulates thousands of games to quantify how perfect vs imperfect play affects results.
 
 ### Key Questions Answered:
 - **Perfect vs Perfect**: Does optimal play always lead to a draw?
@@ -44,7 +44,7 @@ Tic Tac Toe is a **solved game** - with perfect play from both players, the outc
 
 The analysis generates **4 professional graphs**:
 
-1. **Win/Loss Distribution Bar Chart** - Compare all scenarios
+1. **Win/Loss Distribution Bar Chart** - Compares all scenarios
 2. **Game Length Analysis** - Average moves per scenario
 3. **Stacked Outcome Distribution** - 100% stacked view
 4. **Perfect Player Dominance** - Win rate vs mistake rate
